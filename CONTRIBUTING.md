@@ -22,7 +22,7 @@ improve its performance, do not hesitate to fork and send pull requests.
    - Use the same coding style and spacing.
    - Open a [pull request][4] that relates to but one subject with a clear
      title and description in grammatically correct, complete sentences.
-   - The pull requests will be merged after a senate mayority 
+   - The pull requests will be merged after a senate majority 
      of the [Project Leaders][6] approve it. (#41)
 
 #### Modules
