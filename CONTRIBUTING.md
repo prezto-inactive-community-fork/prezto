@@ -22,6 +22,8 @@ improve its performance, do not hesitate to fork and send pull requests.
    - Use the same coding style and spacing.
    - Open a [pull request][4] that relates to but one subject with a clear
      title and description in grammatically correct, complete sentences.
+   - The pull requests will be merged after a senate mayority 
+     of the [Project Leaders][6] approve it. (#41)
 
 #### Modules
 
@@ -39,3 +41,4 @@ improve its performance, do not hesitate to fork and send pull requests.
 [3]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 [4]: https://help.github.com/articles/using-pull-requests
 [5]: http://daringfireball.net/projects/markdown/syntax#img
+[6]: https://github.com/zsh-users/prezto/blob/defining-leaders/README.md#project-leaders
