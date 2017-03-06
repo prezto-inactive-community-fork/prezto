@@ -104,7 +104,7 @@ function editor-info {
 
   unset REPLY
 
-  zle reset-prompt
+  #zle reset-prompt
   zle -R
 }
 zle -N editor-info
