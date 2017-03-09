@@ -1,7 +1,7 @@
 zsh-notify
 ====
 
-[zsh-notidy][1] is a plugin for the Z shell that posts desktop notifications when a command terminates with a non-zero exit status or when it took more than 30 seconds to complete, if the terminal application is in the background (or the terminal tab is inactive).
+[zsh-notify][1] is a plugin for the Z shell that posts desktop notifications when a command terminates with a non-zero exit status or when it took more than 30 seconds to complete, if the terminal application is in the background (or the terminal tab is inactive).
 
 Install
 -------
