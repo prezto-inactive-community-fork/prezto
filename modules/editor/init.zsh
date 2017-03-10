@@ -103,9 +103,12 @@ function editor-info {
   fi
 
   unset REPLY
-
-  zle reset-prompt
-  zle -R
+  # If we aren't within one of the specified contexts, then we want to reset
+  # the prompt with the appropriate editor keymap if it's defined.
+  if [[ $CONTEXT != (select|cont) ]]; then
+    zle reset-prompt
+    zle -R
+  fi
 }
 zle -N editor-info
 
