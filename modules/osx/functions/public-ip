@@ -1,0 +1,7 @@
+# Shows public ip address
+#
+# Authors:
+#   Rui Coelho <rui.coelho@gmail.com>
+#
+
+dig +short myip.opendns.com @resolver1.opendns.com

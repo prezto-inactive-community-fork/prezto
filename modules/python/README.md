@@ -96,4 +96,4 @@ Authors
 [2]: http://www.doughellmann.com/projects/virtualenvwrapper/
 [3]: http://pypi.python.org/pypi/virtualenv
 [4]: https://github.com/yyuu/pyenv
-[5]: https://github.com/sorin-ionescu/prezto/issues
+[5]: https://github.com/zsh-users/prezto/issues

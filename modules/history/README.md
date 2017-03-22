@@ -40,4 +40,4 @@ Authors
   - [Sorin Ionescu](https://github.com/sorin-ionescu)
 
 [1]: http://zsh.sourceforge.net/Guide/zshguide02.html#l16
-[2]: https://github.com/sorin-ionescu/prezto/issues
+[2]: https://github.com/zsh-users/prezto/issues

@@ -23,4 +23,4 @@ Authors
 
 [1]: http://www.gnupg.org
 [2]: http://linux.die.net/man/1/gpg-agent
-[3]: https://github.com/sorin-ionescu/prezto/issues
+[3]: https://github.com/zsh-users/prezto/issues

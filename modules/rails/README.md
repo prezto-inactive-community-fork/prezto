@@ -31,4 +31,4 @@ Authors
   - [Sorin Ionescu](https://github.com/sorin-ionescu)
 
 [1]: http://rubyonrails.org
-[2]: https://github.com/sorin-ionescu/prezto/issues
+[2]: https://github.com/zsh-users/prezto/issues

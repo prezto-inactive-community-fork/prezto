@@ -88,4 +88,4 @@ Authors
   - [Sorin Ionescu](https://github.com/sorin-ionescu)
 
 [1]: http://lucentbeing.com/writing/archives/a-guide-to-256-color-codes/
-[2]: https://github.com/sorin-ionescu/prezto/issues
+[2]: https://github.com/zsh-users/prezto/issues

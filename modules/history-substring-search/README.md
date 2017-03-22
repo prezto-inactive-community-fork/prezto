@@ -58,4 +58,4 @@ Authors
 
 [1]: https://github.com/zsh-users/zsh-history-substring-search
 [2]: http://fishshell.com
-[3]: https://github.com/sorin-ionescu/prezto/issues
+[3]: https://github.com/zsh-users/prezto/issues

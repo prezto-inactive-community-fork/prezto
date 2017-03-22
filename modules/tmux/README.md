@@ -72,6 +72,6 @@ Authors
 [2]: https://github.com/sorin-ionescu/prezto/issues/62
 [3]: https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard
 [4]: https://github.com/mxcl/homebrew
-[5]: https://github.com/sorin-ionescu/prezto/issues
+[5]: https://github.com/zsh-users/prezto/issues
 [6]: http://iterm2.com
 [7]: https://gitlab.com/gnachman/iterm2/wikis/TmuxIntegration

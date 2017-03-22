@@ -36,12 +36,13 @@ Aliases
 ### Branch
 
   - `gb` lists, creates, renames, and deletes branches.
-  - `gbc` creates a new branch.
+  - `gbc` creates and checks out a new branch.
   - `gbl` lists branches and their commits.
   - `gbL` lists local and remote branches and their commits.
   - `gbs` lists branches and their commits with ancestry graphs.
   - `gbS` lists local and remote branches and their commits with ancestry
     graphs.
+  - `gbf` list all branches in order of last modification and who the last committer was
   - `gbx` deletes a branch.
   - `gbX` deletes a branch irrespective of its merged status.
   - `gbm` renames a branch.
@@ -329,6 +330,6 @@ Authors
 [3]: https://www.github.com
 [4]: http://www.manpagez.com/man/8/gpt/
 [5]: http://linux.die.net/man/1/gs
-[6]: https://github.com/sorin-ionescu/prezto/issues
+[6]: https://github.com/zsh-users/prezto/issues
 [7]: https://github.com/sorin-ionescu/prezto/issues/219
 [8]: http://www.kernel.org/pub/software/scm/git/docs/git-log.html

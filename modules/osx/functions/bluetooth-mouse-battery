@@ -1,0 +1,7 @@
+# Shows remaining bluetooth mouse battery percentage
+#
+# Authors:
+#   Rui Coelho <rui.coelho@gmail.com>
+#
+
+ioreg -n "BNBMouseDevice" | sed -n 's/.*BatteryPercent" = \([0-9]*\)/\1/p'

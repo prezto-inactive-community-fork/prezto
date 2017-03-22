@@ -41,5 +41,5 @@ Authors
 [1]: http://nodejs.org
 [2]: http://npmjs.org
 [3]: http://nodejs.org/api
-[4]: https://github.com/sorin-ionescu/prezto/issues
+[4]: https://github.com/zsh-users/prezto/issues
 [5]: https://github.com/creationix/nvm
