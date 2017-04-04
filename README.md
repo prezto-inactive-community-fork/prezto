@@ -1,3 +1,21 @@
+This fork has shut down
+=======================
+
+This fork is deprecated and is no longer reviewing or merging changes. Please
+rebase / re-clone [the original repo][original] and open new issues and PRs
+there.
+
+This repo serves as historical record of the fork.
+
+- https://github.com/zsh-users/prezto/issues/44
+- https://github.com/zsh-users/prezto/issues/26
+- https://github.com/sorin-ionescu/prezto/issues/1239
+- https://github.com/sorin-ionescu/prezto/issues/1269
+
+&mdash; @facastagnini, @johnpneumann, and @paulmelnikow
+
+* * *
+
 [![Gitter](https://badges.gitter.im/zsh-users/prezto.svg)](https://gitter.im/zsh-users/prezto?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Prezto — Instantly Awesome Zsh
