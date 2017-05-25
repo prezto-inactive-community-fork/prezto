@@ -117,3 +117,16 @@ unset zfunction{s,}
 zstyle -a ':prezto:load' pmodule 'pmodules'
 pmodload "$pmodules[@]"
 unset pmodules
+
+# Display deprecation warning for community repo.
+if ! zstyle -t ':prezto:project-deprecated-warning' disable; then
+  echo "The community fork is being shut down because of new activity in the main repo."
+  echo "It is recommended that you switch back to the main repo:"
+  echo
+  echo "https://github.com/sorin-ionescu/prezto/"
+  echo
+  echo "If you would like to continue using this fork (no new updates will be pushed)"
+  echo "copy and paste the following into your zpreztorc to disable this message:"
+  echo
+  echo "zstyle ':prezto:project-deprecated-warning' disable 'yes'"
+fi
